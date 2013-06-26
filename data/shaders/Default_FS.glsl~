@@ -1,0 +1,9 @@
+//Default_FS.glsl
+//Simple shader emulating fixed functionality
+
+varying vec3 OutColor;
+
+void main()
+{
+	gl_FragColor = OutColor;
+}

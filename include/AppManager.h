@@ -1,3 +1,5 @@
+#pragma once
+
 namespace TrainingGL
 {
     //  \brief  Class that starts and handles main thread of app

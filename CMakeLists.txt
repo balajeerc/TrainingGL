@@ -10,6 +10,7 @@ file(GLOB TRAININGGL_SOURCES "src/*.cpp")
 
 #Add header search paths
 include_directories(./include/
+                    ./ext/glm/
                     /usr/include/GL/)
 
 #Add library search paths
